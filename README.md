@@ -1,4 +1,4 @@
-# Project Title
+# Inventory Manager
 
 Inventory management program for shoes with options to re-stock and display details of shoe inventory.
 
